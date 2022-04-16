@@ -38,7 +38,10 @@ The results of the Election Analysis were the following:
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
 
+![Results_Challenge](https://github.com/kplazascp/Election_Analysis/blob/main/Resources/Results_challenge.PNG)
 
-
-## Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Audit Summary
+This Election analysis can help in several ways as a tool for new elections to come, as it allow us to go deeper into more anlysis which will result in different findings:
+- We can expand our analysis on the different counties by adding what was the participation of total votes for each candidate in each county, this will help future elections to know the political preferences of each county and it will help allocate resources from the different politicak parties.
+- We can also use this analysis to expand to States and even to adapt them to different countries.
+- Finally, we can evidence which counties/states/countries have a lower percentage of voters, which can be used for the goverment to impulse why is it so important to vote. 
